@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rick And Morty</string>
+    <string name="search_menu">Search</string>
+    <string name="search_characters">Search characters</string>
+</resources>
